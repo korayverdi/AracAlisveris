@@ -1,0 +1,25 @@
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\Araç Alış Satış Programı.exe.config
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\Araç Alış Satış Programı.exe
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\Araç Alış Satış Programı.pdb
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.csprojResolveAssemblyReference.cache
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç_Alış_Satış_Programı.Form1.resources
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç_Alış_Satış_Programı.Properties.Resources.resources
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.csproj.GenerateResource.Cache
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.exe
+c:\users\koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.pdb
+C:\Users\Koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\MySql.Data.dll
+C:\Users\Koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\Koray\documents\visual studio 2017\Projects\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\MySql.Data.xml
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\Araç Alış Satış Programı.exe.config
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\Araç Alış Satış Programı.exe
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\Araç Alış Satış Programı.pdb
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\bin\Debug\MySql.Data.xml
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.csprojAssemblyReference.cache
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç_Alış_Satış_Programı.Form1.resources
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç_Alış_Satış_Programı.Properties.Resources.resources
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.csproj.GenerateResource.cache
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.csproj.CoreCompileInputs.cache
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.csproj.CopyComplete
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.exe
+C:\Users\Koray Verdi\Desktop\PROJECTS\Araç Alış Satış Programı\Araç Alış Satış Programı\obj\Debug\Araç Alış Satış Programı.pdb
